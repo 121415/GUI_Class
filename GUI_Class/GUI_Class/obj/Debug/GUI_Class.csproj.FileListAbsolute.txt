@@ -1,0 +1,10 @@
+C:\GUI_Class\GUI_Class\GUI_Class\bin\Debug\GUI_Class.exe.config
+C:\GUI_Class\GUI_Class\GUI_Class\bin\Debug\GUI_Class.exe
+C:\GUI_Class\GUI_Class\GUI_Class\bin\Debug\GUI_Class.pdb
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.AssemblyReference.cache
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.Form1.resources
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.Properties.Resources.resources
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.GenerateResource.cache
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.csproj.CoreCompileInputs.cache
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.exe
+C:\GUI_Class\GUI_Class\GUI_Class\obj\Debug\GUI_Class.pdb
