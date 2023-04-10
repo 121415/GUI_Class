@@ -102,11 +102,11 @@ namespace GUI_Class_0220
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(598, 207);
+            this.label3.Location = new System.Drawing.Point(619, 196);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(33, 12);
+            this.label3.Size = new System.Drawing.Size(11, 12);
             this.label3.TabIndex = 6;
-            this.label3.Text = "label3";
+            this.label3.Text = "0";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button5

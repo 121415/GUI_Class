@@ -31,7 +31,13 @@ namespace GUI_Class_0220
 
         private void btn_Button_Leave(object sender, EventArgs e)
         {
-            MessageBox.Show("我移開了");
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form form_TextBox = new Form_TextBox();
+            form_TextBox.Show();
         }
     }
 }

@@ -40,13 +40,13 @@ namespace GUI_Class_0220
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label1.BackColor = System.Drawing.Color.Gold;
             this.label1.Font = new System.Drawing.Font("標楷體", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(186, 35);
             this.label1.TabIndex = 0;
-            this.label1.Text = "B01479999";
+            this.label1.Text = "N10310036";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -57,9 +57,9 @@ namespace GUI_Class_0220
             this.label2.ForeColor = System.Drawing.Color.Blue;
             this.label2.Location = new System.Drawing.Point(12, 53);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(220, 64);
+            this.label2.Size = new System.Drawing.Size(284, 64);
             this.label2.TabIndex = 1;
-            this.label2.Text = "AWenLu";
+            this.label2.Text = "Chen wen";
             // 
             // label3
             // 
@@ -75,19 +75,20 @@ namespace GUI_Class_0220
             this.btn_Button.Name = "btn_Button";
             this.btn_Button.Size = new System.Drawing.Size(137, 57);
             this.btn_Button.TabIndex = 3;
-            this.btn_Button.Text = "按鈕 3/13";
+            this.btn_Button.Text = "新視窗";
             this.btn_Button.UseVisualStyleBackColor = true;
             this.btn_Button.Click += new System.EventHandler(this.btn_Button_Click);
             this.btn_Button.Leave += new System.EventHandler(this.btn_Button_Leave);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(170, 167);
+            this.button1.Location = new System.Drawing.Point(122, 236);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(137, 57);
             this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
+            this.button1.Text = "數入框";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
