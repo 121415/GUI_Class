@@ -39,5 +39,11 @@ namespace GUI_Class_0220
             Form form_TextBox = new Form_TextBox();
             form_TextBox.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form form_TextBox1 = new MID0417();
+            form_TextBox1.Show();
+        }
     }
 }

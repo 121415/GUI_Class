@@ -53,3 +53,8 @@ C:\Users\MEGAS\Desktop\新增資料夾\GUI_Class\GUI_Class_0220\GUI_Class_0220\o
 C:\Users\MEGAS\Desktop\新增資料夾\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.exe
 C:\Users\MEGAS\Desktop\新增資料夾\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.pdb
 C:\Users\MEGAS\Desktop\新增資料夾\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_TextBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_ff.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_TextBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Properties.Form_newff.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form3.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.MID0417.resources

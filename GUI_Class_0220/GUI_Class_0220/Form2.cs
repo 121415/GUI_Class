@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace GUI_Class_0220
+{
+    public partial class Form_ff : Form
+    {
+        public Form_ff()
+        {
+            InitializeComponent();
+        }
+
+        private void Form_ff_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

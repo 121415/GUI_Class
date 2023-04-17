@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_Text.Box.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,10 +76,22 @@
     <Compile Include="Form_Button.Designer.cs">
       <DependentUpon>Form_Button.cs</DependentUpon>
     </Compile>
+    <Compile Include="MID0417.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MID0417.Designer.cs">
+      <DependentUpon>MID0417.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Text.Box.resx">
       <DependentUpon>Form_Text.Box.cs</DependentUpon>
@@ -75,11 +99,23 @@
     <EmbeddedResource Include="Form_Button.resx">
       <DependentUpon>Form_Button.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MID0417.resx">
+      <DependentUpon>MID0417.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Compile Include="Properties\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>

@@ -29,5 +29,11 @@ namespace GUI_Class_0220
             lab_fainal.Text = (input + 10).ToString();
             //MessageBox.Show(str)
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form form_ff = new Form_ff();
+            form_ff.Show();
+        }
     }
 }
