@@ -58,3 +58,5 @@ C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Cla
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Properties.Form_newff.resources
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form3.resources
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.MID0417.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form4.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.FormTimer.resources
