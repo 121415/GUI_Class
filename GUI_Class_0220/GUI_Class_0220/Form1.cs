@@ -53,13 +53,19 @@ namespace GUI_Class_0220
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            Form form_TextBox1 = new Form4();
+            Form form_TextBox1 = new Form_Add();
             form_TextBox1.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             Form form_TextBox1 = new FormTimer();
+            form_TextBox1.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form_TextBox1 = new Form0509HW();
             form_TextBox1.Show();
         }
     }
