@@ -96,7 +96,7 @@ namespace GUI_Class_0220
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(12, 287);
+            this.button3.Location = new System.Drawing.Point(12, 296);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(137, 57);
             this.button3.TabIndex = 6;
