@@ -88,6 +88,12 @@
     <Compile Include="Form_Add.Designer.cs">
       <DependentUpon>Form_Add.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Counter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Counter.Designer.cs">
+      <DependentUpon>Form_Counter.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_Text.Box.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +134,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Add.resx">
       <DependentUpon>Form_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Counter.resx">
+      <DependentUpon>Form_Counter.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Text.Box.resx">
       <DependentUpon>Form_Text.Box.cs</DependentUpon>

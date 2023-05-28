@@ -79,3 +79,5 @@ C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\bin\Debug\GUI_Cl
 C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\bin\Debug\GUI_Class_0220.pdb
 C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Add.resources
 C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form0509HW.resources
+C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220._0522.resources
+C:\Users\阿文\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Counter.resources
