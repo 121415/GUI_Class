@@ -60,5 +60,34 @@ namespace GUI_Class_0220
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string mainfood = "";
+            string sidefood = "";
+            foreach(Control c in panel1.Controls)
+            {
+                if(c is CheckBox)
+                {
+                    if (((CheckBox)c).Checked == true)
+                    {
+                        mainfood += c.Text + " ";
+                    }
+                }
+            }
+
+            foreach (Control c in panel2.Controls)
+            {
+                if (c is CheckBox)
+                {
+                    if (((CheckBox)c).Checked == true)
+                    {
+                        sidefood += c.Text + " ";
+                    }
+                }
+            }
+            //Environment.NewLine換行
+            MessageBox.Show("主食:" + mainfood + "\r\n" + "配菜:" + sidefood);
+        }
     }
 }

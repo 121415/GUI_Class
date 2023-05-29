@@ -74,5 +74,11 @@ namespace GUI_Class_0220
             Form form_TextBox1 = new Form_Counter();
             form_TextBox1.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form_TextBox1 = new _0522();
+            form_TextBox1.Show();
+        }
     }
 }
