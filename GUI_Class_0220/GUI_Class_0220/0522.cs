@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace GUI_Class_0220
 {
@@ -15,6 +16,10 @@ namespace GUI_Class_0220
         public _0522()
         {
             InitializeComponent();
+            File.WriteAllText("Temp.txt", "today0605\n");
+            File.AppendAllText("Temp.txt", "Monday Class");
+            String input = File.ReadAllText("Temp.txt");
+            MessageBox.Show(input);
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
