@@ -16,10 +16,13 @@ namespace GUI_Class_0220
         public _0522()
         {
             InitializeComponent();
-            File.WriteAllText("Temp.txt", "today0605\n");
+            /*File.WriteAllText("Temp.txt", "today0605\n");
             File.AppendAllText("Temp.txt", "Monday Class");
             String input = File.ReadAllText("Temp.txt");
-            MessageBox.Show(input);
+            MessageBox.Show(input);*/
+
+            if (!File.Exists("OrderData.csv"))
+                File.WriteAllText("OrderData.csv", "時間,主食,配餐\n", Encoding.UTF8);
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -91,8 +94,13 @@ namespace GUI_Class_0220
                     }
                 }
             }
+
+            DateTime currentDateTime = DateTime.Now;
+            string formateDateTime = currentDateTime.ToString("yyyy/MM/dd HH:mm:ss");
+            File.AppendAllText("OrderData.csv", formateDateTime + "," + mainfood + "," + sidefood + "\n");
+            MessageBox.Show("點餐成功!");
             //Environment.NewLine換行
-            MessageBox.Show("主食:" + mainfood + "\r\n" + "配菜:" + sidefood);
+            //MessageBox.Show("主食:" + mainfood + "\r\n" + "配菜:" + sidefood);
         }
     }
 }
